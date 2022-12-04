@@ -1,0 +1,5 @@
+{
+  "type": "culturaldelights:vegetal",
+  "biomes": "#forge:is_plains",
+  "feature": "culturaldelights:wild_corn_placed"
+}

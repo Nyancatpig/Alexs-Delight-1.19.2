@@ -1,0 +1,25 @@
+{
+  "group": "gongylidia_bruschetta",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "item": "alexsmobs:gongylidia"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "item": "alexsmobs:fish_oil"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:gongylidia_bruschetta",
+    "count": 2
+  }
+}

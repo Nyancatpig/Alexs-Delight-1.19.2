@@ -1,0 +1,22 @@
+{
+  "group": "gongylidia_bruschetta",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "alexsdelight:cooked_bunfungus"
+    },
+    {
+      "item": "farmersdelight:red_mushroom_colony"
+    },
+    {
+      "item": "farmersdelight:red_mushroom_colony"
+    },
+    {
+      "tag": "forge:bread"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:bunfungus_sandwich",
+    "count": 1
+  }
+}

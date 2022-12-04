@@ -1,0 +1,25 @@
+{
+  "group": "gongylidia_bruschetta",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "item": "alexsdelight:bison_patty"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "tag": "forge:bread"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:bison_burger",
+    "count": 1
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "culturaldelights:vegetal",
+  "biomes": "#forge:is_jungle",
+  "feature": "culturaldelights:avocado_placed"
+}

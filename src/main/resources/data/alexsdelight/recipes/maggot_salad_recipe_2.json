@@ -1,0 +1,16 @@
+{
+  "group": "maggot_salad",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:maggot"
+    },
+    {
+      "item": "farmersdelight:mixed_salad"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:maggot_salad",
+    "count": 1
+  }
+}
