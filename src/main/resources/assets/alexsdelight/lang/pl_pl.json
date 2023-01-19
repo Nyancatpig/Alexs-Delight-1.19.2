@@ -1,0 +1,29 @@
+{
+  "itemGroup.culturalTab": "Cultural Delights",
+
+  "item.alexsdelight.cooked_bison": "Pieczony bizon",
+  "item.alexsdelight.raw_bison": "Surowy bizon",
+  "item.alexsdelight.cooked_bunfungus": "Pieczony króligrzyb",
+  "item.alexsdelight.raw_bunfungus": "Surowy króligrzyb",
+  "item.alexsdelight.cooked_centipede_leg": "Pieczona noga skolopendra",
+
+  "item.alexsdelight.kangaroo_shank": "Podudzie kangura",
+  "item.alexsdelight.cooked_kangaroo_shank": "Pieczone podudzie kangura",
+  "item.alexsdelight.loose_moose_rib": "Żeberko łosia",
+  "item.alexsdelight.cooked_loose_moose_rib": "Pieczone żeberko łosia",
+  "item.alexsdelight.bison_mince": "Mielone z bizona",
+  "item.alexsdelight.bison_patty": "Kotlecik z bizona",
+  "item.alexsdelight.raw_bunfungus_drumstick": "Surowe udko króligrzyba",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "Pieczone udko króligrzyba",
+  "item.alexsdelight.raw_catfish_slice": "Surowy kawałek suma",
+  "item.alexsdelight.cooked_catfish_slice": "Pieczony kawałek suma",
+
+  "item.alexsdelight.gongylidia_bruschetta": "Bruschetta z gongylidią",
+  "item.alexsdelight.maggot_salad": "Sałatka z larwami",
+  "item.alexsdelight.kangaroo_stew": "Potrawka z kangura",
+  "item.alexsdelight.acacia_blossom_soup": "Zupa z kwiecia akacji",
+  "item.alexsdelight.lobster_pasta": "Makaron z homarem",
+  "item.alexsdelight.bison_burger": "Burger z bizonem",
+  "item.alexsdelight.bunfungus_sandwich": "Kanapka z króligrzybem",
+  "item.alexsdelight.kangaroo_pasta": "Makaron z kangurem"
+}
