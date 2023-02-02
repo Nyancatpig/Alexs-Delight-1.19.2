@@ -1,0 +1,29 @@
+{
+  "itemGroup.culturalTab": "Cultural Delights",
+
+  "item.alexsdelight.cooked_bison": "Смажене м'ясо бізона",
+  "item.alexsdelight.raw_bison": "Сире м'ясо бізона",
+  "item.alexsdelight.cooked_bunfungus": "Смажене кроляче стегенце",
+  "item.alexsdelight.raw_bunfungus": "Сире кроляче стегенце",
+  "item.alexsdelight.cooked_centipede_leg": "Смажена ніжка печерної сороконіжки",
+
+  "item.alexsdelight.kangaroo_shank": "Кенгуряча гомілка",
+  "item.alexsdelight.cooked_kangaroo_shank": "Смажена кенгуряча гомілка",
+  "item.alexsdelight.loose_moose_rib": "Сире лосяче реберце",
+  "item.alexsdelight.cooked_loose_moose_rib": "Смажене лосяче реберце",
+  "item.alexsdelight.bison_mince": "Бізонячий фарш",
+  "item.alexsdelight.bison_patty": "Бізоняча котлета",
+  "item.alexsdelight.raw_bunfungus_drumstick": "Сира кроляча гомілка",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "Смажена кроляча гомілка",
+  "item.alexsdelight.raw_catfish_slice": "Шматочок сирого сома",
+  "item.alexsdelight.cooked_catfish_slice": "Шматочок смаженого соба",
+
+  "item.alexsdelight.gongylidia_bruschetta": "Гонгілідієва брускета",
+  "item.alexsdelight.maggot_salad": "Опаришевий салат",
+  "item.alexsdelight.kangaroo_stew": "Тушкована кенгурятина",
+  "item.alexsdelight.acacia_blossom_soup": "Акацієвий квітучий суп",
+  "item.alexsdelight.lobster_pasta": "Лобстерева паста",
+  "item.alexsdelight.bison_burger": "Бізургер",
+  "item.alexsdelight.bunfungus_sandwich": "Бутерброд з кролятиною",
+  "item.alexsdelight.kangaroo_pasta": "Кенгуряча паста"
+}
