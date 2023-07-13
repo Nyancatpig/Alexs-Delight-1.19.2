@@ -1,0 +1,29 @@
+{
+  "itemGroup.culturalTab": "Cultural Delights",
+
+  "item.alexsdelight.cooked_bison": "익힌 들소 고기",
+  "item.alexsdelight.raw_bison": "익히지 않은 들소 고기",
+  "item.alexsdelight.cooked_bunfungus": "익힌 균토끼 고기",
+  "item.alexsdelight.raw_bunfungus": "익히지 않은 균토끼 고기",
+  "item.alexsdelight.cooked_centipede_leg": "익힌 지네 다리",
+
+  "item.alexsdelight.kangaroo_shank": "익히지 않은 캥거루 다리",
+  "item.alexsdelight.cooked_kangaroo_shank": "익힌 캥거루 다리",
+  "item.alexsdelight.loose_moose_rib": "익히지 않은 사슴 갈비",
+  "item.alexsdelight.cooked_loose_moose_rib": "익힌 사슴 갈비",
+  "item.alexsdelight.bison_mince": "다진 들소 고기",
+  "item.alexsdelight.bison_patty": "들소 햄버거 패티",
+  "item.alexsdelight.raw_bunfungus_drumstick": "익히지 않은 균토끼 다리",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "익힌 균토끼 다리",
+  "item.alexsdelight.raw_catfish_slice": "익히지 않은 메기",
+  "item.alexsdelight.cooked_catfish_slice": "익힌 메기",
+
+  "item.alexsdelight.gongylidia_bruschetta": "공길리디아 브루스케타",
+  "item.alexsdelight.maggot_salad": "구더기 샐러드",
+  "item.alexsdelight.kangaroo_stew": "캥거루 수프",
+  "item.alexsdelight.acacia_blossom_soup": "아카시아 수프",
+  "item.alexsdelight.lobster_pasta": "랍스터 파스타",
+  "item.alexsdelight.bison_burger": "들소 버거",
+  "item.alexsdelight.bunfungus_sandwich": "균토끼 샌드위치",
+  "item.alexsdelight.kangaroo_pasta": "캥거루 파스타"
+}
