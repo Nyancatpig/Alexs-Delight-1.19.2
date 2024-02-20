@@ -1,0 +1,29 @@
+{
+  "itemGroup.culturalTab": "Przyjemności Kulturowe",
+
+  "item.alexsdelight.cooked_bison": "Ugotowany Bizon",
+  "item.alexsdelight.raw_bison": "Surowy Bizon",
+  "item.alexsdelight.cooked_bunfungus": "Ugotowany Bunfungus",
+  "item.alexsdelight.raw_bunfungus": "Surowy Bunfungus",
+  "item.alexsdelight.cooked_centipede_leg": "Ugotowana Noga Skolopendry",
+
+  "item.alexsdelight.kangaroo_shank": "Łydka Kangura",
+  "item.alexsdelight.cooked_kangaroo_shank": "Ugotowana Łydka Kangura",
+  "item.alexsdelight.loose_moose_rib": "Luźna Żebro Łosia",
+  "item.alexsdelight.cooked_loose_moose_rib": "Ugotowane Luźne Żebro Łosia",
+  "item.alexsdelight.bison_mince": "Mięso Mielone z Bizona",
+  "item.alexsdelight.bison_patty": "Kotlet z Bizona",
+  "item.alexsdelight.raw_bunfungus_drumstick": "Surowa Pałka z Bunfungusa",
+  "item.alexsdelight.cooked_bunfungus_drumstick": "Ugotowana Pałka z Bunfungusa",
+  "item.alexsdelight.raw_catfish_slice": "Surowy Kawałek Suma",
+  "item.alexsdelight.cooked_catfish_slice": "Ugotowany Kawałek Suma",
+
+  "item.alexsdelight.gongylidia_bruschetta": "Bruschetta z Gongylidia",
+  "item.alexsdelight.maggot_salad": "Sałatka z Larw",
+  "item.alexsdelight.kangaroo_stew": "Gulasz z Kangura",
+  "item.alexsdelight.acacia_blossom_soup": "Zupa z Kwiatów Akacji",
+  "item.alexsdelight.lobster_pasta": "Makaron z Homarem",
+  "item.alexsdelight.bison_burger": "Bizon Burger",
+  "item.alexsdelight.bunfungus_sandwich": "Kanapka z Bunfungusem",
+  "item.alexsdelight.kangaroo_pasta": "Makaron z Kangurem"
+}
